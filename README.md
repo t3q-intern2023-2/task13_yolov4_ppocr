@@ -39,6 +39,8 @@ python app.py --input video.mp4 --dont_show
 
 
 - **License plate 사진 (Class: license plate가 탐지 되었을 때)**
+
+  
 ![8](https://github.com/t3q-intern2023-2/task13_yolov4_ppocr/assets/87487729/a04eeb72-5055-4e98-807f-2816cc8d9ce4)
 
 
