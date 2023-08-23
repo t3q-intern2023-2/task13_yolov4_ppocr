@@ -45,7 +45,9 @@ python app.py --input video.mp4 --dont_show
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dc28f0ea-efd5-4e43-9620-a4232b039dce/Untitled.jpeg)
 
 - **frame별  BBox coordinates값 및 Detected_text값이 저장된 json 파일**
-- [
+
+```json
+[
     {
         "frame_name": "frame_0000.jpg",
         "detected_text": "6202 ",
@@ -71,3 +73,4 @@ python app.py --input video.mp4 --dont_show
         "height": 28
     }
 	]
+```
