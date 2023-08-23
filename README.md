@@ -22,6 +22,7 @@ python app.py --input video.mp4 --dont_show
 ![1](https://github.com/t3q-intern2023-2/task13_yolov4_ppocr/assets/87487729/3650d62c-d10d-47ae-9fbe-93bd8ef06d84)
 ![2](https://github.com/t3q-intern2023-2/task13_yolov4_ppocr/assets/87487729/abd6ebfa-aee7-481c-9ea2-680e7e95cc52)
 
+
 ![3](https://github.com/t3q-intern2023-2/task13_yolov4_ppocr/assets/87487729/71367040-d3d4-49dc-a133-4aa49ef59e81)
 ![4](https://github.com/t3q-intern2023-2/task13_yolov4_ppocr/assets/87487729/3e206a4f-c966-4d79-bfb6-cda2e7d54e16)
 ![5](https://github.com/t3q-intern2023-2/task13_yolov4_ppocr/assets/87487729/dc0a5d64-74dc-4df8-a30c-e1126e3ab714)
